@@ -1,4 +1,5 @@
 Flask
-Flask-Cors
+Flask-Cors==4.0.1
 Pillow
-pikepdf 
+pikepdf
+gunicorn==22.0.0 
