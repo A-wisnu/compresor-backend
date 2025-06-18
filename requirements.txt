@@ -1,5 +1,6 @@
 Flask
 Flask-Cors==4.0.1
 Pillow
-pikepdf
-gunicorn==22.0.0 
+pikepdf>=8.0.0
+gunicorn==22.0.0
+zlib-state>=0.1.6 
